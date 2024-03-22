@@ -1,4 +1,4 @@
-# aws-vpc-3layer
+# aws-vpc-3-layer
 
 ## なにこれ？
 
