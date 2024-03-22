@@ -1,1 +1,0 @@
-# aws-vpc-3-layer
