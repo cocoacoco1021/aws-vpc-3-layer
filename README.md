@@ -1,7 +1,7 @@
-# aws-vpc-3-layer
+aws-vpc-3-layer
+=========
 
-## なにこれ？
-
+## これは何？
 awsに3層のVPC環境を構築するplaybookです。  
 作成するリソースは下記の通りです。  
 
